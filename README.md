@@ -3,7 +3,7 @@
 This is a Flutter-based mobile app focused on mental health support and wellbeing, featuring an AI-powered chatbot, mood tracking, journaling, and more.
 
 📱 **APK Download:**  
-[Click here to download the latest APK](https://drive.google.com/file/d/1um8D7N1VLWLGJe9G4T6uv0UbSyAkWDmR/view?usp=drive_link)
+[Click here to download the latest APK](https://drive.google.com/drive/folders/1kBH2lX2AhzeKhXIOV7N6R95kWg4PfsUr?usp=drive_link)
 
 ---
 
